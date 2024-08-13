@@ -41,37 +41,7 @@ const Home = () => {
         <img src={cartImg} alt="cart" width={18} height={18}/>  
       </Nav.Item>
     </Nav>
-  </Navbar>
-        //  <nav>
-        //     <div className="nav-item" >
-        //         <img src={emailImg} alt="email" width={16} height={16}/>
-        //         <p>mmahmudi1103@gmail.com</p>
-        //     </div>
-        //     <div className="nav-item">
-        //         <img src={phoneImg} alt="phone" width={14} height={14}/>
-        //         <p>(08123)456789</p>
-        //     </div>
-        //     <div className="nav-item">
-        //         <p>English</p>
-        //         <img src={arrowDown} alt="drop-down" width={14} height={14}/>    
-        //     </div>
-        //     <div className="nav-item">
-                // <p>USD</p>
-                // <img src={arrowDown} alt="drop-down" width={14} height={14}/> 
-        //     </div>
-        //     <div className="nav-item">
-                // <p>Login</p>
-                // <img src={accountImg} alt="account" width={14} height={14}/>
-        //     </div>
-        //     <div className="nav-item">
-                // <p>Wishlist</p>
-                // <img src={loveImg} alt="wishlist" width={14} height={14}/>
-        //     </div>
-        //     <div className="nav-item">
-                // <img src={cartImg} alt="cart" width={14} height={14}/>
-        //     </div>
-
-        // </nav> 
+  </Navbar> 
   )
 }
 
