@@ -1,0 +1,8 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    filter: invert(100%) sepia(0%) saturate(7439%) hue-rotate(199deg) brightness(120%) contrast(113%);
+}

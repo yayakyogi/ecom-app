@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { Button } from "rsuite";
 import style from "./styles.module.less"; // for custom css
-
+//  #7E33E0
 const ExamplePage: React.FC = () => {
   const [count, setCount] = useState(0);
 
