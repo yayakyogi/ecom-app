@@ -1,10 +1,6 @@
 import {accountImg, cartImg, emailImg, loveImg, phoneImg, arrowDown} from "../utils";
 import "./Home.css" 
-// import { Navbar, Nav } from 'rsuite';
-// import CogIcon from '@rsuite/icons/legacy/Cog';
-// import UnoCSS from 'unocss/vite'
 import { Navbar, Nav } from 'rsuite';
-
 import 'rsuite/dist/rsuite.min.css';
 const Home = () => {
   return (
